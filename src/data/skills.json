@@ -23,5 +23,14 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "PHP",
+    "imageSrc": "skills/php_logo.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/j_logo.png"
   }
+  
 ]

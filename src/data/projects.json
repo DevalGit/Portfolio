@@ -1,25 +1,25 @@
 [
   {
-    "title": "Project 1",
+    "title": "Online Ecommerce Website",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This is a project made to learn the latest MERN framework.",
+    "skills": ["React", "Express", "Node","MongoDB"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "Online Auction System",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "This is a full -stack project to provide user the ability to create and manage auctions.",
+    "skills": ["React", "PHP", "PHPMyAdmin"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
+    "title": "Custom Invoice Builder",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This is a project made to provide user the ability to customely design and print invoices.",
+    "skills": ["React"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
